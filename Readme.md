@@ -1,4 +1,4 @@
-## Cycle Accurate Simulator for a NoC Router
+## Cycle Accurate Simulator for an NoC Router and Mesh
 
 ### Running
 
